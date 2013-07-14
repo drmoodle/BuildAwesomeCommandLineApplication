@@ -51,6 +51,7 @@ case command
       end
     end
     #'mv #{TODO_FILE}.new #{TODO_FILE}'
-# the orginal from book does not work for me the following does
+# the orginal from book does not work for me the following does which
+#    got from http://stackoverflow.com/questions/2606278/system-call-in-ruby
     system("mv", "#{TODO_FILE}.new", "#{TODO_FILE}")
 end

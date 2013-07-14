@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86a1d06f-7f75-4173-a3bc-71d3b223a6df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/todo-done.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/todo-list.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/todo-new.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter1/todo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter1/todo" afterPath="$PROJECT_DIR$/Chapter1/todo" />
     </list>
     <ignored path="BuildAwesomeCommandLineApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/db_backup_initial.rb" changelist="86a1d06f-7f75-4173-a3bc-71d3b223a6df" time="1373781808685" ignored="false" />
     <file path="/Dummy.txt" changelist="86a1d06f-7f75-4173-a3bc-71d3b223a6df" time="1373782425653" ignored="false" />
-    <file path="/todo" changelist="86a1d06f-7f75-4173-a3bc-71d3b223a6df" time="1373837294808" ignored="false" />
+    <file path="/todo" changelist="86a1d06f-7f75-4173-a3bc-71d3b223a6df" time="1373837555840" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <file leaf-file-name="todo" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter1/todo">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="3" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.7763975">
+            <state line="54" column="76" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.73913044">
               <folding />
             </state>
           </provider>
@@ -461,7 +457,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter1/todo">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="3" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.7763975">
+        <state line="54" column="76" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.73913044">
           <folding />
         </state>
       </provider>
